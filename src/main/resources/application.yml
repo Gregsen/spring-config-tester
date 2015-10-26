@@ -1,0 +1,6 @@
+config:
+    param: test
+    listParams:
+      - Test1
+      - Test2
+    path: ${SOME_PATH}
