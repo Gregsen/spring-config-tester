@@ -1,5 +1,5 @@
 config:
-    param: test
+    param: ${SOME_PARAM}
     listParams:
       - Test1
       - Test2
